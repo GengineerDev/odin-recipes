@@ -1,0 +1,14 @@
+h1, h3, h4 {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+h1 {
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    font-size: 22px;
+}
+
