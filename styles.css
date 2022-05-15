@@ -30,3 +30,8 @@ h3#desc {
     color: blue;
     font-weight: 200px;
 }
+
+.return {
+    text-align: right;
+    font-size: 12px;
+}
