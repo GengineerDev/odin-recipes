@@ -15,3 +15,8 @@ h3 {
 .menu {
     font-size: 20px;
 }
+
+img {
+    height: auto;
+    width: 300px;
+}
